@@ -1,0 +1,12 @@
+#btnn {
+  width: 100px;
+  background-color: #0081a7;
+  color: #fdfcdc;
+  border: none;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+#btnn:hover {
+  box-shadow: 2px 3px 5px #f07167;
+  width: 110px;
+}
